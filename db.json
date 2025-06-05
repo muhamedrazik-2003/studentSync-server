@@ -1,0 +1,1069 @@
+{
+  "users": [
+    {
+      "password": "123456789",
+      "id": "001",
+      "name": "Muhamed Razik",
+      "email": "muhamedrazik@admin.in",
+      "role": "admin"
+    },
+    {
+      "id": "002",
+      "name": "John Doe",
+      "email": "johndoe@fake.com",
+      "password": "123456789",
+      "role": "moderator"
+    }
+  ],
+  "students": [
+    {
+      "id": "001",
+      "name": "Adam John",
+      "email": "adamjohn@hotmail.com",
+      "course": "BBA",
+      "dob": "2003-05-24",
+      "enrolledDate": "",
+      "address": {
+        "street": "New Town",
+        "city": "Alaxia",
+        "state": "Darbar",
+        "pincode": "987432"
+      },
+      "attendance": "",
+      "gender": "Male",
+      "phone": "9876542891",
+      "profilePic": "",
+      "semester": "3",
+      "status": "Active",
+      "year": "2nd year",
+      "updatedAt": ""
+    },
+    {
+      "id": "002",
+      "name": "Johnathan Olson",
+      "email": "Johnathan@peters-coleman.com",
+      "phone": "733-853-8019x19871",
+      "gender": "Male",
+      "dob": "2003-04-25",
+      "course": "BSc Mathematics",
+      "year": "1st Year",
+      "semester": 4,
+      "address": {
+        "street": "9338 Hess Vista Suite 984",
+        "city": "South Suzannebury",
+        "state": "Pennsylvania",
+        "pincode": "79295"
+      },
+      "status": "Inactive",
+      "profilePic": "https://placekitten.com/49/162",
+      "attendance": {
+        "totalClasses": 107,
+        "attended": 103
+      },
+      "enrolledDate": "2023-08-01",
+      "updatedAt": "2025-05-09 23:06:59"
+    },
+    {
+      "id": "003",
+      "name": "Brandon Johnson",
+      "email": "brandonjohnsonl@hotmail.com",
+      "phone": "303-687-3443",
+      "gender": "Male",
+      "dob": "2006-07-31",
+      "course": "BSc Mathematics",
+      "year": "2nd Year",
+      "semester": 8,
+      "address": {
+        "street": "66297 White Throughway",
+        "city": "East Arthurview",
+        "state": "New Mexico",
+        "pincode": "73505"
+      },
+      "status": "Inactive",
+      "profilePic": "https://www.lorempixel.com/755/931",
+      "attendance": {
+        "totalClasses": 132,
+        "attended": 114
+      },
+      "enrolledDate": "2023-12-19",
+      "updatedAt": "2025-04-30 18:33:24"
+    },
+    {
+      "id": "004",
+      "name": "Elizabeth Alexander",
+      "email": "elizibathalexander@gmail.com",
+      "phone": "6235922150",
+      "gender": "Female",
+      "dob": "2005-12-30",
+      "course": "B Tech Civil",
+      "year": "2nd Year",
+      "semester": 1,
+      "address": {
+        "street": "9348 Taylor Union",
+        "city": "East Jay",
+        "state": "Maryland",
+        "pincode": "98641"
+      },
+      "status": "Active",
+      "profilePic": "https://placeimg.com/738/938/any",
+      "attendance": {
+        "totalClasses": 137,
+        "attended": 135
+      },
+      "enrolledDate": "2022-07-02",
+      "updatedAt": "2025-05-11 11:58:37"
+    },
+    {
+      "id": "005",
+      "name": "Eugene Ramirez",
+      "email": "johnharris@hotmail.com",
+      "phone": "+1-902-731-5177x233",
+      "gender": "Male",
+      "dob": "2001-10-25",
+      "course": "B Tech Civil",
+      "year": "2nd Year",
+      "semester": 4,
+      "address": {
+        "street": "092 Carrie Island Suite 475",
+        "city": "North Lisa",
+        "state": "Iowa",
+        "pincode": "20480"
+      },
+      "status": "Active",
+      "profilePic": "https://placeimg.com/750/505/any",
+      "attendance": {
+        "totalClasses": 114,
+        "attended": 98
+      },
+      "enrolledDate": "2024-01-22",
+      "updatedAt": "2025-04-26 21:14:08"
+    },
+    {
+      "id": "006",
+      "name": "Cynthia Bruce",
+      "email": "cynthia@Bruce.com",
+      "phone": "534-100-7126",
+      "gender": "Female",
+      "dob": "2005-04-14",
+      "course": "BSc Mathematics",
+      "year": "2nd Year",
+      "semester": 7,
+      "address": {
+        "street": "373 Daniel Views",
+        "city": "Joycefort",
+        "state": "Montana",
+        "pincode": "69529"
+      },
+      "status": "Active",
+      "profilePic": "https://dummyimage.com/703x38",
+      "attendance": {
+        "totalClasses": 109,
+        "attended": 104
+      },
+      "enrolledDate": "2023-07-31",
+      "updatedAt": "2025-01-23 01:30:02"
+    },
+    {
+      "id": "007",
+      "name": "Suzanne Watkins",
+      "email": "alyssajohnson@carr-whitehead.net",
+      "phone": "9824730527",
+      "gender": "Female",
+      "dob": "2003-12-08",
+      "course": "BCom",
+      "year": "1st Year",
+      "semester": 8,
+      "address": {
+        "street": "56775 Kane Parkway",
+        "city": "South Amanda",
+        "state": "Massachusetts",
+        "pincode": "22164"
+      },
+      "status": "Active",
+      "profilePic": "https://placeimg.com/773/84/any",
+      "attendance": {
+        "totalClasses": 139,
+        "attended": 111
+      },
+      "enrolledDate": "2024-04-25",
+      "updatedAt": "2025-02-07 20:45:26"
+    },
+    {
+      "id": "008",
+      "name": "John Price",
+      "email": "brockjeffery@rodriguez.com",
+      "phone": "+1-093-046-9421x764",
+      "gender": "Male",
+      "dob": "2004-12-12",
+      "course": "BSc Mathematics",
+      "year": "4th Year",
+      "semester": 2,
+      "address": {
+        "street": "56561 Hancock Parkways Apt. 559",
+        "city": "North Madison",
+        "state": "Nebraska",
+        "pincode": "81597"
+      },
+      "status": "Inactive",
+      "profilePic": "https://www.lorempixel.com/121/487",
+      "attendance": {
+        "totalClasses": 106,
+        "attended": 80
+      },
+      "enrolledDate": "2022-06-29",
+      "updatedAt": "2025-05-16 06:41:04"
+    },
+    {
+      "id": "009",
+      "name": "Barbara Phillips",
+      "email": "amanda40@yahoo.com",
+      "phone": "+1-950-447-8885x49045",
+      "gender": "Female",
+      "dob": "2001-08-01",
+      "course": "BCA",
+      "year": "4th Year",
+      "semester": 3,
+      "address": {
+        "street": "77742 Diaz Shores",
+        "city": "Lake Stephenborough",
+        "state": "Arkansas",
+        "pincode": "63332"
+      },
+      "status": "Active",
+      "profilePic": "https://dummyimage.com/679x59",
+      "attendance": {
+        "totalClasses": 105,
+        "attended": 91
+      },
+      "enrolledDate": "2022-08-10",
+      "updatedAt": "2025-03-27 06:27:25"
+    },
+    {
+      "id": "010",
+      "name": "Bryan Pena",
+      "email": "ashley42@hotmail.com",
+      "phone": "001-101-088-0166x2791",
+      "gender": "Male",
+      "dob": "2006-08-09",
+      "course": "BSc Physics",
+      "year": "4th Year",
+      "semester": 7,
+      "address": {
+        "street": "92709 Jordan Knoll",
+        "city": "Brockton",
+        "state": "Montana",
+        "pincode": "74352"
+      },
+      "status": "Active",
+      "profilePic": "https://placeimg.com/326/286/any",
+      "attendance": {
+        "totalClasses": 106,
+        "attended": 93
+      },
+      "enrolledDate": "2023-02-02",
+      "updatedAt": "2025-02-26 00:27:23"
+    },
+    {
+      "id": "011",
+      "name": "Heather Gray",
+      "email": "brownkevin@hotmail.com",
+      "phone": "(074)999-8470x03935",
+      "gender": "Female",
+      "dob": "2006-04-27",
+      "course": "BSc Physics",
+      "year": "2nd Year",
+      "semester": 8,
+      "address": {
+        "street": "4499 Allen Forest",
+        "city": "Hillfort",
+        "state": "Idaho",
+        "pincode": "15085"
+      },
+      "status": "Inactive",
+      "profilePic": "https://www.lorempixel.com/570/509",
+      "attendance": {
+        "totalClasses": 140,
+        "attended": 95
+      },
+      "enrolledDate": "2022-09-03",
+      "updatedAt": "2025-01-23 17:46:48"
+    },
+    {
+      "id": "012",
+      "name": "John Brown",
+      "email": "wagnerrobert@gmail.com",
+      "phone": "623.563.3035",
+      "gender": "Male",
+      "dob": "2005-10-26",
+      "course": "BCom",
+      "year": "2nd Year",
+      "semester": 8,
+      "address": {
+        "street": "1881 Bryant Shoal",
+        "city": "Muellerton",
+        "state": "Texas",
+        "pincode": "84827"
+      },
+      "status": "Active",
+      "profilePic": "https://dummyimage.com/430x246",
+      "attendance": {
+        "totalClasses": 114,
+        "attended": 108
+      },
+      "enrolledDate": "2024-03-04",
+      "updatedAt": "2025-01-18 21:57:11"
+    },
+    {
+      "id": "013",
+      "name": "Denise Oconnor",
+      "email": "autumn76@horton.biz",
+      "phone": "(084)981-9512",
+      "gender": "Female",
+      "dob": "2004-05-02",
+      "course": "BSc Physics",
+      "year": "1st Year",
+      "semester": 4,
+      "address": {
+        "street": "17193 Richard Forge Apt. 967",
+        "city": "West Matthew",
+        "state": "Colorado",
+        "pincode": "57025"
+      },
+      "status": "Active",
+      "profilePic": "https://placeimg.com/908/141/any",
+      "attendance": {
+        "totalClasses": 113,
+        "attended": 107
+      },
+      "enrolledDate": "2023-06-01",
+      "updatedAt": "2025-03-24 17:16:55"
+    },
+    {
+      "id": "014",
+      "name": "Sean Smith",
+      "email": "nicholethompson@hotmail.com",
+      "phone": "+1-988-360-3978x160",
+      "gender": "Male",
+      "dob": "2004-03-29",
+      "course": "BA English",
+      "year": "4th Year",
+      "semester": 4,
+      "address": {
+        "street": "13841 James Isle",
+        "city": "Lake Bradley",
+        "state": "Montana",
+        "pincode": "43302"
+      },
+      "status": "Active",
+      "profilePic": "https://www.lorempixel.com/713/573",
+      "attendance": {
+        "totalClasses": 140,
+        "attended": 104
+      },
+      "enrolledDate": "2024-02-03",
+      "updatedAt": "2025-03-16 15:49:43"
+    },
+    {
+      "id": "015",
+      "name": "Christopher Shaffer",
+      "email": "tgreen@rose.com",
+      "phone": "+1-944-156-7595x476",
+      "gender": "Male",
+      "dob": "2002-09-10",
+      "course": "B Tech Computer Science",
+      "year": "2nd Year",
+      "semester": 8,
+      "address": {
+        "street": "33450 Levi Terrace Apt. 742",
+        "city": "Michelefurt",
+        "state": "Montana",
+        "pincode": "56760"
+      },
+      "status": "Inactive",
+      "profilePic": "https://dummyimage.com/518x138",
+      "attendance": {
+        "totalClasses": 133,
+        "attended": 97
+      },
+      "enrolledDate": "2023-08-02",
+      "updatedAt": "2025-02-04 16:13:02"
+    },
+    {
+      "id": "016",
+      "name": "Robert Cummings",
+      "email": "robert@cummings.info",
+      "phone": "3497526579",
+      "gender": "Male",
+      "dob": "2007-04-11",
+      "course": "B Tech Civil",
+      "year": "3rd Year",
+      "semester": 5,
+      "address": {
+        "street": "7131 Cox Corner",
+        "city": "Lake Danielle",
+        "state": "Kentucky",
+        "pincode": "27108"
+      },
+      "status": "Active",
+      "profilePic": "https://dummyimage.com/263x567",
+      "attendance": {
+        "totalClasses": 133,
+        "attended": 86
+      },
+      "enrolledDate": "2024-02-03",
+      "updatedAt": "2025-05-15 16:41:23"
+    },
+    {
+      "id": "017",
+      "name": "Elijah Hunt",
+      "email": "charles07@yahoo.com",
+      "phone": "+1-497-621-8742",
+      "gender": "Male",
+      "dob": "2006-07-28",
+      "course": "BCom",
+      "year": "3rd Year",
+      "semester": 1,
+      "address": {
+        "street": "0284 Lambert Brook",
+        "city": "West Karen",
+        "state": "New York",
+        "pincode": "47650"
+      },
+      "status": "Active",
+      "profilePic": "https://placeimg.com/1015/772/any",
+      "attendance": {
+        "totalClasses": 108,
+        "attended": 108
+      },
+      "enrolledDate": "2022-08-04",
+      "updatedAt": "2025-05-28 20:27:00"
+    },
+    {
+      "id": "8475",
+      "name": "Damu Das",
+      "email": "damu@beekaran.com",
+      "dob": "2000-01-01",
+      "gender": "Male",
+      "phone": "9897969594",
+      "address": {
+        "street": "Damu Street",
+        "city": "Damu City",
+        "state": "Damu State",
+        "pincode": "987654"
+      },
+      "course": "BBA",
+      "year": "3rd Year",
+      "semester": "3",
+      "status": "Active",
+      "profilePic": "https://placeimg.com/1015/772/any",
+      "attendance": {
+        "totalClasses": 108,
+        "attended": 108
+      },
+      "enrolledDate": "2022-08-04",
+      "updatedAt": "2025-05-28 20:27:00"
+    }
+  ],
+  "courses": [
+    {
+      "id": "C001",
+      "name": "BBA",
+      "duration": "3 Years",
+      "instructor": "Dr. Priya Kumar",
+      "description": "Bachelor of Business Administration covering core concepts in management and marketing.",
+      "subjects": {
+        "sub1": "Principles of Management",
+        "Business Communication": "A-",
+        "Microeconomics": "B+",
+        "Financial Accounting": "A",
+        "Marketing Management": "B"
+      }
+    },
+    {
+      "id": "C002",
+      "name": "BSc Mathematics",
+      "duration": "3 Years",
+      "instructor": "Dr. Asha Nair",
+      "description": "Bachelor of Science in Mathematics focusing on advanced mathematical topics.",
+      "subjects": {
+        "Calculus I": "B+",
+        "Linear Algebra": "A",
+        "Statistics": "A-",
+        "Number Theory": "B",
+        "Real Analysis": "B+"
+      }
+    },
+    {
+      "id": "C003",
+      "name": "B Tech Civil",
+      "duration": "4 Years",
+      "instructor": "Prof. Manoj Thomas",
+      "description": "Engineering program in civil infrastructure design and analysis.",
+      "subjects": {
+        "Structural Analysis": "A-",
+        "Fluid Mechanics": "B+",
+        "Surveying": "A",
+        "Construction Materials": "B",
+        "Environmental Engineering": "A"
+      }
+    },
+    {
+      "id": "C004",
+      "name": "BCom",
+      "duration": "3 Years",
+      "instructor": "Dr. Rajeev Menon",
+      "description": "Commerce degree covering finance, law, and business management.",
+      "subjects": {
+        "Financial Accounting": "A",
+        "Corporate Law": "B+",
+        "Business Statistics": "A-",
+        "Banking and Insurance": "B",
+        "Business Mathematics": "B+"
+      }
+    },
+    {
+      "id": "C005",
+      "name": "BCA",
+      "duration": "3 Years",
+      "instructor": "Prof. Neha Sharma",
+      "description": "Bachelor of Computer Applications covering core computing concepts.",
+      "subjects": {
+        "Data Structures": "A",
+        "Computer Networks": "A-",
+        "Database Management Systems": "B+",
+        "Operating Systems": "A",
+        "Software Engineering": "B+"
+      }
+    },
+    {
+      "id": "C006",
+      "name": "BSc Physics",
+      "duration": "3 Years",
+      "instructor": "Dr. Anil Kapoor",
+      "description": "Physics program exploring fundamental and applied physical sciences.",
+      "subjects": {
+        "Electromagnetism": "A",
+        "Quantum Physics": "B+",
+        "Thermodynamics": "B",
+        "Optics": "A-",
+        "Classical Mechanics": "B+"
+      }
+    },
+    {
+      "id": "C007",
+      "name": "BA English",
+      "duration": "3 Years",
+      "instructor": "Dr. Meera Sinha",
+      "description": "English Literature program with focus on drama, poetry, and literary theory.",
+      "subjects": {
+        "British Literature": "A",
+        "Indian Writing in English": "B+",
+        "Literary Criticism": "A-",
+        "Drama and Theatre": "B",
+        "English Grammar": "A"
+      }
+    },
+    {
+      "id": "C008",
+      "name": "B Tech Computer Science",
+      "duration": "4 Years",
+      "instructor": "Dr. Arvind Narayan",
+      "description": "Computer Science program covering programming, AI, and databases.",
+      "subjects": {
+        "Data Structures": "A",
+        "Algorithms": "B+",
+        "Artificial Intelligence": "A-",
+        "Database Systems": "B+",
+        "Web Technologies": "A"
+      }
+    }
+  ],
+  "grades": [
+    {
+      "id": "001",
+      "studentName": "Adam John",
+      "course": "BBA",
+      "subjects": [
+        {
+          "name": "Principles of Management",
+          "grade": "A"
+        },
+        {
+          "name": "Business Communication",
+          "grade": "C-"
+        },
+        {
+          "name": "Microeconomics",
+          "grade": "B+"
+        },
+        {
+          "name": "Financial Accounting",
+          "grade": "C"
+        },
+        {
+          "name": "Marketing Management",
+          "grade": "C+"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "studentName": "Johnathan Olson",
+      "course": "BSc Mathematics",
+      "subjects": [
+        {
+          "name": "Calculus I",
+          "grade": "B+"
+        },
+        {
+          "name": "Linear Algebra",
+          "grade": "A"
+        },
+        {
+          "name": "Statistics",
+          "grade": "A-"
+        },
+        {
+          "name": "Number Theory",
+          "grade": "B"
+        },
+        {
+          "name": "Real Analysis",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "studentName": "Brandon Johnson",
+      "course": "BSc Mathematics",
+      "subjects": [
+        {
+          "name": "Complex Analysis",
+          "grade": "B"
+        },
+        {
+          "name": "Discrete Mathematics",
+          "grade": "A-"
+        },
+        {
+          "name": "Vector Calculus",
+          "grade": "A"
+        },
+        {
+          "name": "Differential Equations",
+          "grade": "B+"
+        },
+        {
+          "name": "Abstract Algebra",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "studentName": "Elizabeth Alexander",
+      "course": "B Tech Civil",
+      "subjects": [
+        {
+          "name": "Structural Analysis",
+          "grade": "A-"
+        },
+        {
+          "name": "Fluid Mechanics",
+          "grade": "B+"
+        },
+        {
+          "name": "Surveying",
+          "grade": "A"
+        },
+        {
+          "name": "Construction Materials",
+          "grade": "B"
+        },
+        {
+          "name": "Environmental Engineering",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "studentName": "Eugene Ramirez",
+      "course": "B Tech Civil",
+      "subjects": [
+        {
+          "name": "Building Planning",
+          "grade": "B-"
+        },
+        {
+          "name": "Transportation Engineering",
+          "grade": "C"
+        },
+        {
+          "name": "Geotechnical Engineering",
+          "grade": "C+"
+        },
+        {
+          "name": "Water Resource Engineering",
+          "grade": "B+"
+        },
+        {
+          "name": "Construction Technology",
+          "grade": "D"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "studentName": "Cynthia Bruce",
+      "course": "BSc Mathematics",
+      "subjects": [
+        {
+          "name": "Topology",
+          "grade": "B"
+        },
+        {
+          "name": "Numerical Methods",
+          "grade": "B+"
+        },
+        {
+          "name": "Mathematical Modelling",
+          "grade": "A-"
+        },
+        {
+          "name": "Mathematical Statistics",
+          "grade": "A"
+        },
+        {
+          "name": "Operations Research",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "studentName": "Suzanne Watkins",
+      "course": "BCom",
+      "subjects": [
+        {
+          "name": "Financial Accounting",
+          "grade": "A"
+        },
+        {
+          "name": "Corporate Law",
+          "grade": "B+"
+        },
+        {
+          "name": "Business Statistics",
+          "grade": "A-"
+        },
+        {
+          "name": "Banking and Insurance",
+          "grade": "B"
+        },
+        {
+          "name": "Business Mathematics",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "studentName": "John Price",
+      "course": "BSc Mathematics",
+      "subjects": [
+        {
+          "name": "Algebraic Structures",
+          "grade": "A-"
+        },
+        {
+          "name": "Probability Theory",
+          "grade": "B+"
+        },
+        {
+          "name": "Optimization Techniques",
+          "grade": "B"
+        },
+        {
+          "name": "Fourier Series",
+          "grade": "A"
+        },
+        {
+          "name": "Integral Equations",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "studentName": "Barbara Phillips",
+      "course": "BCA",
+      "subjects": [
+        {
+          "name": "Data Structures",
+          "grade": "A"
+        },
+        {
+          "name": "Computer Networks",
+          "grade": "A-"
+        },
+        {
+          "name": "Database Management Systems",
+          "grade": "B+"
+        },
+        {
+          "name": "Operating Systems",
+          "grade": "A"
+        },
+        {
+          "name": "Software Engineering",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "studentName": "Bryan Pena",
+      "course": "BSc Physics",
+      "subjects": [
+        {
+          "name": "Electromagnetism",
+          "grade": "A"
+        },
+        {
+          "name": "Quantum Physics",
+          "grade": "B+"
+        },
+        {
+          "name": "Thermodynamics",
+          "grade": "B"
+        },
+        {
+          "name": "Optics",
+          "grade": "A-"
+        },
+        {
+          "name": "Classical Mechanics",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "studentName": "Heather Gray",
+      "course": "BSc Physics",
+      "subjects": [
+        {
+          "name": "Nuclear Physics",
+          "grade": "B"
+        },
+        {
+          "name": "Solid State Physics",
+          "grade": "A"
+        },
+        {
+          "name": "Electronics",
+          "grade": "A-"
+        },
+        {
+          "name": "Atomic Physics",
+          "grade": "B+"
+        },
+        {
+          "name": "Waves and Oscillations",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "studentName": "John Brown",
+      "course": "BCom",
+      "subjects": [
+        {
+          "name": "Auditing",
+          "grade": "B+"
+        },
+        {
+          "name": "Cost Accounting",
+          "grade": "A"
+        },
+        {
+          "name": "Income Tax",
+          "grade": "B"
+        },
+        {
+          "name": "Business Environment",
+          "grade": "A-"
+        },
+        {
+          "name": "Company Law",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "studentName": "Denise Oconnor",
+      "course": "BSc Physics",
+      "subjects": [
+        {
+          "name": "Electromagnetism",
+          "grade": "B+"
+        },
+        {
+          "name": "Mathematical Physics",
+          "grade": "A-"
+        },
+        {
+          "name": "Classical Mechanics",
+          "grade": "B"
+        },
+        {
+          "name": "Electronics",
+          "grade": "A"
+        },
+        {
+          "name": "Heat and Thermodynamics",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "studentName": "Sean Smith",
+      "course": "BA English",
+      "subjects": [
+        {
+          "name": "British Literature",
+          "grade": "A"
+        },
+        {
+          "name": "Indian Writing in English",
+          "grade": "B+"
+        },
+        {
+          "name": "Literary Criticism",
+          "grade": "A-"
+        },
+        {
+          "name": "Drama and Theatre",
+          "grade": "B"
+        },
+        {
+          "name": "English Grammar",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "studentName": "Christopher Shaffer",
+      "course": "B Tech Computer Science",
+      "subjects": [
+        {
+          "name": "Data Structures",
+          "grade": "A"
+        },
+        {
+          "name": "Algorithms",
+          "grade": "B+"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "grade": "A-"
+        },
+        {
+          "name": "Database Systems",
+          "grade": "B+"
+        },
+        {
+          "name": "Web Technologies",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "studentName": "Robert Cummings",
+      "course": "B Tech Civil",
+      "subjects": [
+        {
+          "name": "Transportation Engineering",
+          "grade": "B+"
+        },
+        {
+          "name": "Concrete Technology",
+          "grade": "B"
+        },
+        {
+          "name": "Construction Planning",
+          "grade": "A-"
+        },
+        {
+          "name": "Environmental Engineering",
+          "grade": "A"
+        },
+        {
+          "name": "Soil Mechanics",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "studentName": "Elijah Hunt",
+      "course": "BCom",
+      "subjects": [
+        {
+          "name": "Business Economics",
+          "grade": "A-"
+        },
+        {
+          "name": "Corporate Accounting",
+          "grade": "B+"
+        },
+        {
+          "name": "Cost Accounting",
+          "grade": "A"
+        },
+        {
+          "name": "E-Commerce",
+          "grade": "B"
+        },
+        {
+          "name": "Principles of Marketing",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "id": "8475",
+      "studentName": "Damu Das",
+      "course": "BBA",
+      "subjects": [
+        {
+          "name": "Human Resource Management",
+          "grade": "B+"
+        },
+        {
+          "name": "Organizational Behavior",
+          "grade": "A"
+        },
+        {
+          "name": "International Business",
+          "grade": "A-"
+        },
+        {
+          "name": "Strategic Management",
+          "grade": "B"
+        },
+        {
+          "name": "Managerial Economics",
+          "grade": "A"
+        }
+      ]
+    }
+  ]
+}
